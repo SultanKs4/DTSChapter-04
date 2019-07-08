@@ -1,0 +1,59 @@
+<resources>
+    <!--activity_main-->
+    <string name="app_name">DTS Chapter-04</string>
+    <string name="text_splash">DTS Kominfo</string>
+    <string name="img_splash">Logo Splash</string>
+    <!--activity_welcome_slide_calendar-->
+    <string name="img_welcome">Logo Welcome</string>
+    <string name="text_welcome_to_dts">Welcome To DTS VSGA</string>
+    <string name="sub_welcome">What is going to happen tomorrow ?</string>
+    <string name="img_footer">Logo Footer</string>
+    <string name="text_login">Login</string>
+    <string name="text_contact_us">Contact Us</string>
+    <string name="text_btn_get_started">GET STARTED</string>
+    <!--activity_welcome_back-->
+    <string name="text_welcome_back">Welcome Back</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="hint_pwd">Enter Your Password</string>
+    <string name="forgot_pwd">Forgot Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="text_have_account">Don\'t have an account?</string>
+    <string name="text_sign_up">Sign Up</string>
+    <!--activity_welcome_slide_superhero-->
+    <string name="img_superhero">Logo superhero</string>
+    <string name="text_welcome_hero">Work Happen</string>
+    <string name="text_sub_welcome">Get Notified When Work Happens</string>
+    <!--activity_welcome_slide_assign-->
+    <string name="text_welcome_assign">Tasks and assign</string>
+    <string name="text_sub_welcome_assign">Task and assign them to colleagues</string>
+    <!--activity_reset_password-->
+    <string name="text_reset_pwd">Reset Password</string>
+    <string name="text_reset_code">Reset Code</string>
+    <string name="text_sub_reset_pwd">Reset code was sent to your email, Please enter the code and create new password</string>
+    <string name="hint_reset_code">Enter Your Number</string>
+    <string name="text_new_pwd">New Password</string>
+    <string name="text_confirm_new_pwd">Confirm Password</string>
+    <string name="hint_confirm_new_pwd">Enter Your Confirm Password</string>
+    <string name="btn_change_pwd">Change Password</string>
+    <!--activity_forgot_password-->
+    <string name="text_sub_forgot_pwd_title">Please enter your email below to receive your password reset instructions</string>
+    <string name="btn_send_request">Send Request</string>
+    <string name="success_img">image success</string>
+    <string name="success_text">Successful!!</string>
+    <string name="success_sub_text">You have successfully change password.\nPlease use your new passwords when logging in</string>
+    <!--activity_register-->
+    <string name="text_regis">Registration</string>
+    <string name="text_name">Name</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="text_dob">Date of Birth</string>
+    <string name="hint_dob">YYYY/MM/DD</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="register_success_title">Register Success</string>
+    <string name="equal">=</string>
+    <string name="sementara">sementara</string>
+</resources>
